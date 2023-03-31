@@ -34,7 +34,7 @@
 @import url("https://warrayquipsome.github.io/Chillax/Addons/FolderRedesign.css");
 
 /*additional addons*/ /*(remove the both * to use)*/
-/*@import url("https://warrayquipsome.github.io/Chillax/Addons/SimpleLessLag.css");*/
+@import url("https://warrayquipsome.github.io/Chillax/Addons/SimpleLessLag.css");
 
 
 
@@ -59,7 +59,7 @@
 
 /*roots*/ /*both dark and light*/
 :root {
-  --user-name: "King";
+  --user-name: "Drowser";
   --font-name: Poppins;
   --font-size: 13px;
      
@@ -99,7 +99,7 @@
   --background-image:var(--de-suggested-bg);
 /*bg dev suggestions*/
   --wq-suggested-bg: url('https://wallpaperaccess.com/full/2799204.jpg');
-  --de-suggested-bg: url('https://i.imgur.com/BtNVFtq.jpg');
+  --de-suggested-bg: url('https://i.pinimg.com/originals/52/83/59/5283594dd6b1d0dd4b8a59c723a35024.gif');
 /*modern background selection*/
   --modern-dark-bg: url('https://cdn.discordapp.com/attachments/879158025087234098/1015856640530071572/97EAEB95-54C2-4AF3-B70B-5E94A851409.jpeg?size=4096');
   --modern-light-bg: url('https://cdn.discordapp.com/attachments/879158025087234098/1015856640760754216/E98F8123-8B98-4961-90D7-DCC497A26E4.jpeg?size=4096');
